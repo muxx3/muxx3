@@ -1,7 +1,7 @@
-<!--- TITLE "CRYING" --->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/99/49/3c/99493ce5969c3cdf4d212648a2fcd97a.gif" wdith="70%"/>
-</div>
+[//]: # (<!--- TITLE "CRYING" --->) 
+[//]: # (<div align="center">) 
+[//]: # (<img src="https://i.pinimg.com/originals/99/49/3c/99493ce5969c3cdf4d212648a2fcd97a.gif" wdith="70%"/>) 
+[//]: # (</div>) 
 
 <!--- UPPER DIAMONDS --->
 <img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" height="130px"/>
