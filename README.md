@@ -21,7 +21,7 @@
   
 ```css
   #muxxe_ {              
-   position: Myroom;  
+ position: Desk;  
  height: "6720px";
 display: male;  
       background: fullStack;
@@ -79,7 +79,7 @@ display: male;
 <br><br><br><br>
 
 <!--- RANDOM IMAGES --->
-<img src="https://i.pinimg.com/736x/82/9d/85/829d85cd1aa741e5ffaa5cfa3d5fcb29.jpg" width="50%"><img src="https://i.pinimg.com/736x/88/d6/3d/88d63d5cac37911b121d9415ea8bab28.jpg" width="30%"><img src="https://i.pinimg.com/736x/a8/02/6d/a8026d17c4a65c3bd1bb5d341b593a5c.jpg" width="50%"><img src="https://i.pinimg.com/736x/21/5f/b1/215fb1c6405ffddd4ae671483cad2b75.jpg" width="50%">
+<img src="https://i.pinimg.com/736x/b5/45/9e/b5459ea29424e4cf783ebae57d2d7ae2.jpg" width="30%"><img src="https://i.pinimg.com/736x/88/d6/3d/88d63d5cac37911b121d9415ea8bab28.jpg" width="30%"><img src="https://i.pinimg.com/736x/a8/02/6d/a8026d17c4a65c3bd1bb5d341b593a5c.jpg" width="50%"><img src="https://i.pinimg.com/736x/21/5f/b1/215fb1c6405ffddd4ae671483cad2b75.jpg" width="50%">
 
 
 
