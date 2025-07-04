@@ -1,11 +1,6 @@
-[//]: # (<!--- TITLE "CRYING" --->) 
-[//]: # (<div align="center">) 
-[//]: # (<img src="https://i.pinimg.com/originals/99/49/3c/99493ce5969c3cdf4d212648a2fcd97a.gif" wdith="70%"/>) 
-[//]: # (</div>) 
-
 <!--- UPPER DIAMONDS --->
-<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" height="130px"/>
-<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="right" height="130px"/>
+<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" width="130px"/>
+<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="right" width="130px"/>
 
 <br>
 
@@ -15,8 +10,8 @@
 </div>
 
 <!--- LOWER DIAMOND GIFS AND CODE BIO --->
-<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" height="100px"/>
-<div align="right"><img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="right" height="100px"/></div>
+<img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" width="100px"/>
+<div align="right"><img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="right" width="100px"/></div>
 <div align="center">
   
 ```css
@@ -35,9 +30,9 @@ display: male;
 <!--- FIRST UNDER CONSTRUCTION GIF W/ RAGNAROK--->
 
 <div align="center">
-  <img src="https://media.tenor.com/UWS2PP6KdIQAAAAi/ragnarok-online.gif" align="center" height="78px">
+  <img src="https://media.tenor.com/UWS2PP6KdIQAAAAi/ragnarok-online.gif" align="center" width="78px">
   <img src="http://textfiles.com/underconstruction/pipipelinehalfpipe1038CONSTRUCTION.GIF">
-  <img src="https://media.tenor.com/UWS2PP6KdIQAAAAi/ragnarok-online.gif" align="center" height="78px">
+  <img src="https://media.tenor.com/UWS2PP6KdIQAAAAi/ragnarok-online.gif" align="center" width="78px">
 </div>
   <div align="left">
 
