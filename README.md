@@ -1,3 +1,34 @@
+<!-- TECH STACK BADGES -->
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <br>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <br>
+
+  <!-- Backend / Infra -->
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <br>
+
+  <!-- Tools / Environment -->
+  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/tmux-000000?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
+  <br>
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</div>
+
+
 <!--- UPPER DIAMONDS --->
 <img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="left" width="130px"/>
 <img src="https://i.pinimg.com/originals/3c/3c/f3/3c3cf39e307538e4e8231409994aabf7.gif" align="right" width="130px"/>
