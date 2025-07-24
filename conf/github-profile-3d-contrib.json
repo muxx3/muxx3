@@ -1,5 +1,4 @@
 [
- [
   {
     "type": "normal",
     "fileName": "day.svg",
@@ -16,9 +15,8 @@
       "#444444",
       "#000000" 
     ]
-  }
-],
-   {
+  },
+  {
     "type": "normal",
     "fileName": "night.svg",
     "backgroundColor": "#000000",
@@ -37,5 +35,6 @@
     ],
     "duration": "10s",
     "hueRatio": 0
-    }
+  }
 ]
+
