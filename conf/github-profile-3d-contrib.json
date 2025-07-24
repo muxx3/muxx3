@@ -2,18 +2,18 @@
   {
     "type": "normal",
     "fileName": "day.svg",
-    "backgroundColor": "#ffffff",        
-    "foregroundColor": "#000000",       
-    "strongColor": "#222222",          
-    "weakColor": "#888888",           
-    "radarColor": "#444444",         
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000",
+    "strongColor": "#222222",
+    "weakColor": "#888888",
+    "radarColor": "#444444",
     "growingAnimation": true,
     "contribColors": [
-      "#f0f0f0", 
+      "#f0f0f0",
       "#cccccc",
       "#888888",
       "#444444",
-      "#000000" 
+      "#000000"
     ]
   },
   {
@@ -25,16 +25,13 @@
     "weakColor": "#777777",
     "radarColor": "#444444",
     "growingAnimation": true,
-    "saturation": "0%",
-    "contribLightness": [
-      "20%",
-      "30%",
-      "40%",
-      "50%",
-      "60%"
-    ],
-    "duration": "10s",
-    "hueRatio": 0
+    "contribColors": [
+      "#222222",
+      "#333333",
+      "#444444",
+      "#555555",
+      "#ffffff"
+    ]
   }
 ]
 
