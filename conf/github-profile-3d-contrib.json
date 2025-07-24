@@ -7,6 +7,13 @@
     "strongColor": "#222222",
     "weakColor": "#888888",
     "radarColor": "#444444",
+    "radarColorList": [
+      "#ffffff",
+      "#aaaaaa",
+      "#666666",
+      "#222222",
+      "#ff0000"
+    ],
     "growingAnimation": true,
     "contribColors": [
       "#f0f0f0",
@@ -24,6 +31,13 @@
     "strongColor": "#cccccc",
     "weakColor": "#777777",
     "radarColor": "#444444",
+    "radarColorList": [
+      "#ffffff",
+      "#aaaaaa",
+      "#666666",
+      "#222222",
+      "#ff0000"
+    ],
     "growingAnimation": true,
     "contribColors": [
       "#222222",
