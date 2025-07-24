@@ -1,22 +1,24 @@
 [
+ [
   {
     "type": "normal",
     "fileName": "day.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#000000",
-    "strongColor": "#222222",
-    "weakColor": "#888888",
-    "radarColor": "#444444",
+    "backgroundColor": "#ffffff",        
+    "foregroundColor": "#000000",       
+    "strongColor": "#222222",          
+    "weakColor": "#888888",           
+    "radarColor": "#444444",         
     "growingAnimation": true,
     "contribColors": [
-      "#f0f0f0",
+      "#f0f0f0", 
       "#cccccc",
       "#888888",
       "#444444",
-      "#000000"
+      "#000000" 
     ]
-  },
-  {
+  }
+],
+   {
     "type": "normal",
     "fileName": "night.svg",
     "backgroundColor": "#000000",
@@ -35,6 +37,5 @@
     ],
     "duration": "10s",
     "hueRatio": 0
-  }
+    }
 ]
-
