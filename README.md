@@ -31,13 +31,7 @@
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
-<p align="center" >
-	<picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muxx3/muxx3/output-3d-contrib/day.svg" />
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/muxx3/muxx3/output-3d-contrib/night.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/muxx3/muxx3/output-3d-contrib/dark.svg" />
-	</picture>
-</p>
+
 
 <!--- 90s ICONS --->
 <div align="center">
