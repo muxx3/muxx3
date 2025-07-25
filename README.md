@@ -35,5 +35,12 @@
 
 <!--- 90s ICONS --->
 <div align="center">
-<img src="http://textfiles.com/underconstruction/SiSiliconValleyHaven8517Gif-Construction-Set.gif"/><img src="https://web.archive.org/web/20091026225622im_/http://geocities.com/Area51/Cavern/5014/mindilogo.gif"><img src="http://textfiles.com/underconstruction/ArArea51Station9771rulersconstructiongeocities_static.gif"/><img src="http://textfiles.com/underconstruction/ArArea51Station9771rulersconstructionie_logo.gif"/><img src="https://web.archive.org/web/20090829234249im_/http://geocities.com/SunsetStrip/Basement/7472/v3sban.gif"><img src="https://web.archive.org/web/20091027173931im_/http://geocities.com/SoHo/3336/scroll.gif">
+  <img src="http://textfiles.com/underconstruction/SiSiliconValleyHaven8517Gif-Construction-Set.gif"/>
+  <img src="https://web.archive.org/web/20091026225622im_/http://geocities.com/Area51/Cavern/5014/mindilogo.gif">
+  <a href="mailto:muxxe.dev@gmail.com">
+    <img src="https://web.archive.org/web/20091027173931im_/http://geocities.com/SoHo/3336/scroll.gif">
+  </a>
+  <img src="http://textfiles.com/underconstruction/ArArea51Station9771rulersconstructiongeocities_static.gif"/>
+  <img src="http://textfiles.com/underconstruction/ArArea51Station9771rulersconstructionie_logo.gif"/>
+  <img src="https://web.archive.org/web/20090829234249im_/http://geocities.com/SunsetStrip/Basement/7472/v3sban.gif">
 </div>
