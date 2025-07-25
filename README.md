@@ -1,6 +1,8 @@
 <!--- BUTTERFLY GIF --->
 <div align="center">
+  <a href="https://muxxe.dev">
 <img src="https://web.archive.org/web/20091027091501im_/http://www.geocities.com/Paris/Salon/8611/anibf.gif" />
+  </a>
 </div>
 <!-- TECH STACK BADGES -->
 <div align="top">
